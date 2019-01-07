@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b47a869f-2aa5-4f0e-87fa-13127d129efa" name="Default Changelist" comment="" />
+    <list default="true" id="b47a869f-2aa5-4f0e-87fa-13127d129efa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,20 +15,23 @@
     <session id="-1020402529">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="3185" />
-          <entry key="txt" value="157" />
+          <entry key="txt" value="162" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="3185" />
           <entry key="PLAIN_TEXT" value="157" />
+          <entry key="Scratch" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -57,7 +62,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/RunGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
+            <state relative-caret-position="555">
               <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
@@ -66,14 +71,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/playGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-              <folding>
-                <element signature="e#401#402#0" expanded="true" />
-                <element signature="e#421#422#0" expanded="true" />
-                <element signature="e#3899#3900#0" expanded="true" />
-                <element signature="e#3989#3990#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="945">
+              <caret line="62" column="19" lean-forward="true" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -81,8 +80,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+            <state relative-caret-position="555">
+              <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -104,16 +103,16 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
         <option value="$PROJECT_DIR$/src/com/company/RunGame.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
         <option value="$PROJECT_DIR$/src/com/company/playGame.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-3516" />
-    <option name="y" value="102" />
-    <option name="width" value="1400" />
-    <option name="height" value="837" />
+    <option name="x" value="-871" />
+    <option name="y" value="73" />
+    <option name="width" value="825" />
+    <option name="height" value="958" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -124,7 +123,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,11 +154,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546502723168" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546507238353" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -213,35 +213,35 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3516" y="102" width="1400" height="837" extended-state="0" />
+    <frame x="-871" y="73" width="825" height="958" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.07437408" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13154534" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32885906" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32885906" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.0966443" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3852349" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.1374134" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32885906" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -261,27 +261,21 @@
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+        <state relative-caret-position="555">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/playGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-          <folding>
-            <element signature="e#401#402#0" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
-            <element signature="e#3899#3900#0" expanded="true" />
-            <element signature="e#3989#3990#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="945">
+          <caret line="62" column="19" lean-forward="true" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/RunGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
+        <state relative-caret-position="555">
           <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
